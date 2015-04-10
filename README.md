@@ -23,5 +23,6 @@ Check in here / 在此签到
 Github Username | FAS Username 
 ---             | --- 
 [alick9188](https://github.com/alick9188) | [alick](https://fedoraproject.org/wiki/User:Alick)
+[tonghuix](https://github.com/tonghuix) | [tonghuix](https://fedoraproject.org/wiki/User:Tonghuix)
 [tvvocold](https://github.com/tvvocold)   | [tvvocold](https://fedoraproject.org/wiki/User:Tvvocold)
 [sztsian](https://github.com/sztsian)   | [zsun](https://fedoraproject.org/wiki/User:Zsun)
