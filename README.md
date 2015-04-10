@@ -22,5 +22,6 @@ Check in here / 在此签到
 -
 Github Username | FAS Username 
 ---             | --- 
-[tvvocold](https://github.com/tvvocold) | [tvvocold](https://fedoraproject.org/wiki/User:Tvvocold)
+[alick9188](https://github.com/alick9188) | [alick](https://fedoraproject.org/wiki/User:Alick)
+[tvvocold](https://github.com/tvvocold)   | [tvvocold](https://fedoraproject.org/wiki/User:Tvvocold)
 
