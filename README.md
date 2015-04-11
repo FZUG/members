@@ -11,12 +11,14 @@ Guide
 * [Fork](https://github.com/FZUG/members/edit/master/README.md#fork-destination-box) this repository 
 * Add your Github Username and FAS Username
 * Send a [PR](https://github.com/FZUG/members/compare) 
+* Wait for others to merge it.
 
 指南
 -
 * [Fork](https://github.com/FZUG/members/edit/master/README.md#fork-destination-box) 本库
 * 添加自己的 Github 和 FAS 账户名
 * 提交 [PR](https://github.com/FZUG/members/compare) 
+* 等待其他现有成员合并 PR
 
 Check in here / 在此签到
 -
