@@ -29,3 +29,4 @@ Github Username | FAS Username
 [tonghuix](https://github.com/tonghuix) | [tonghuix](https://fedoraproject.org/wiki/User:Tonghuix)
 [tvvocold](https://github.com/tvvocold)   | [tvvocold](https://fedoraproject.org/wiki/User:Tvvocold)
 [sztsian](https://github.com/sztsian)   | [zsun](https://fedoraproject.org/wiki/User:Zsun)
+[1dot75cm](https://github.com/1dot75cm)   | [mosquito](https://fedoraproject.org/wiki/User:Mosquito)
