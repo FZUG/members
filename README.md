@@ -31,3 +31,5 @@ Github Username | FAS Username
 [tvvocold](https://github.com/tvvocold)   | [tvvocold](https://fedoraproject.org/wiki/User:Tvvocold)
 [sztsian](https://github.com/sztsian)   | [zsun](https://fedoraproject.org/wiki/User:Zsun)
 [1dot75cm](https://github.com/1dot75cm)   | [mosquito](https://fedoraproject.org/wiki/User:Mosquito)
+[RobberPhex](https://github.com/RobberPhex)   | [RobberPhex](https://fedoraproject.org/wiki/User:Robberphex)
+
