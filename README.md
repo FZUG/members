@@ -9,14 +9,14 @@ Welcome! All github FZUG members are requested to add their name in this reposit
 Guide
 -
 * [Fork](https://github.com/FZUG/members/edit/master/README.md#fork-destination-box) this repository 
-* Add your Github Username and FAS Username
+* Add your Github Username and FAS Username to README.md by alphabet order of Github account name.
 * Send a [PR](https://github.com/FZUG/members/compare) 
 * Wait for others to merge it.
 
 指南
 -
 * [Fork](https://github.com/FZUG/members/edit/master/README.md#fork-destination-box) 本库
-* 添加自己的 Github 和 FAS 账户名
+* 在 README.md 中按照 Github 账户字母表顺序添加自己的 Github 和 FAS 账户名
 * 提交 [PR](https://github.com/FZUG/members/compare) 
 * 等待其他现有成员合并 PR
 
