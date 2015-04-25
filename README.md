@@ -33,4 +33,5 @@ Github Username | FAS Username
 [1dot75cm](https://github.com/1dot75cm)   | [mosquito](https://fedoraproject.org/wiki/User:Mosquito)
 [RobberPhex](https://github.com/RobberPhex)   | [RobberPhex](https://fedoraproject.org/wiki/User:Robberphex)
 [126ium](https://github.com/126ium)   | [a126ium](https://fedoraproject.org/wiki/User:a126ium)
+[felixonmars](https://github.com/felixonmars)   | [felixonmars](https://fedoraproject.org/wiki/User:Felixonmars)
 
