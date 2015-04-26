@@ -29,6 +29,7 @@ Github Username | FAS Username
 [alick](https://github.com/alick) | [alick](https://fedoraproject.org/wiki/User:Alick)
 [cheese](https://github.com/cheese) | [cheeselee](https://fedoraproject.org/wiki/User:Cheeselee)
 [Endle](https://github.com/endle)         | [endle](https://fedoraproject.org/wiki/User:Endle)
+[felixonmars](https://github.com/felixonmars)   | [felixonmars](https://fedoraproject.org/wiki/User:Felixonmars)
 [RobberPhex](https://github.com/RobberPhex)   | [RobberPhex](https://fedoraproject.org/wiki/User:Robberphex)
 [sztsian](https://github.com/sztsian)   | [zsun](https://fedoraproject.org/wiki/User:Zsun)
 [tonghuix](https://github.com/tonghuix) | [tonghuix](https://fedoraproject.org/wiki/User:Tonghuix)
