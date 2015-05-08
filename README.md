@@ -34,4 +34,4 @@ Github Username | FAS Username
 [RobberPhex](https://github.com/RobberPhex)   | [RobberPhex](https://fedoraproject.org/wiki/User:Robberphex)
 [126ium](https://github.com/126ium)   | [a126ium](https://fedoraproject.org/wiki/User:a126ium)
 [felixonmars](https://github.com/felixonmars)   | [felixonmars](https://fedoraproject.org/wiki/User:Felixonmars)
-
+[biergaizi](https://github.com/biergaizi)   | [biergaizi](https://fedoraproject.org/wiki/User:biergaizi)
