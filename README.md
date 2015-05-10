@@ -35,3 +35,4 @@ Github Username | FAS Username
 [126ium](https://github.com/126ium)   | [a126ium](https://fedoraproject.org/wiki/User:a126ium)
 [felixonmars](https://github.com/felixonmars)   | [felixonmars](https://fedoraproject.org/wiki/User:Felixonmars)
 [biergaizi](https://github.com/biergaizi)   | [biergaizi](https://fedoraproject.org/wiki/User:biergaizi)
+[ekd123](https://github.com/ekd123) | [unixekd123](https://fedoraproject.org/wiki/User:Unixekd123)
