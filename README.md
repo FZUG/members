@@ -2,7 +2,7 @@ members
 -
 A roster of FZUG members on GitHub
 
-Welcome! All github FZUG members are requested to add their name in this repository.
+Welcome! All FZUG members are kindly requested to add their names to this repository.
 
 欢迎！请 Fedora 中文社区成员签到。
 
@@ -37,3 +37,4 @@ Github Username | FAS Username
 [biergaizi](https://github.com/biergaizi)   | [biergaizi](https://fedoraproject.org/wiki/User:biergaizi)
 [ekd123](https://github.com/ekd123) | [unixekd123](https://fedoraproject.org/wiki/User:Unixekd123)
 [zhouxiaobo](https://github.com/zhouxiaobo500) | [zhouxiaobo](https://fedoraproject.org/wiki/User:Zhouxiaobo)
+[gbraad](https://github.com/gbraad) | [gbraad](https://fedoraproject.org/wiki/User:gbraad)
