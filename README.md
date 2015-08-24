@@ -38,3 +38,4 @@ Github Username | FAS Username
 [ekd123](https://github.com/ekd123) | [unixekd123](https://fedoraproject.org/wiki/User:Unixekd123)
 [zhouxiaobo](https://github.com/zhouxiaobo500) | [zhouxiaobo](https://fedoraproject.org/wiki/User:Zhouxiaobo)
 [gbraad](https://github.com/gbraad) | [gbraad](https://fedoraproject.org/wiki/User:gbraad)
+[smslit](https://github.com/smslit) | [smslit](https://fedoraproject.org/wiki/User:smslit)
