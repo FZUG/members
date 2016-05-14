@@ -40,3 +40,4 @@ Github Username | FAS Username
 [gbraad](https://github.com/gbraad) | [gbraad](https://fedoraproject.org/wiki/User:gbraad)
 [yaochx](https://github.com/yaochx) | [chengxiang](https://fedoraproject.org/wiki/User:chengxiang)
 [8cbx](https://github.com/8cbx) | [MarylandenyChu](https://fedoraproject.org/wiki/User:Marylandenychu)
+[nrechn](https://github.com/nrechn) | [nrechn](https://fedoraproject.org/wiki/User:Nrechn)
