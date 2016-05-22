@@ -41,3 +41,4 @@ Github Username | FAS Username
 [yaochx](https://github.com/yaochx) | [chengxiang](https://fedoraproject.org/wiki/User:chengxiang)
 [8cbx](https://github.com/8cbx) | [MarylandenyChu](https://fedoraproject.org/wiki/User:Marylandenychu)
 [nrechn](https://github.com/nrechn) | [nrechn](https://fedoraproject.org/wiki/User:Nrechn)
+[shiywang](https://github.com/shiywang) | [shiywang](https://fedoraproject.org/wiki/User:Shiywang)
