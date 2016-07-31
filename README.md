@@ -43,3 +43,4 @@ Github Username | FAS Username
 [nrechn](https://github.com/nrechn) | [nrechn](https://fedoraproject.org/wiki/User:Nrechn)
 [shiywang](https://github.com/shiywang) | [shiywang](https://fedoraproject.org/wiki/User:Shiywang)
 [xianliu](https://github.com/xianliu) | [lxjsj](https://fedoraproject.org/wiki/User:Lxjsj)
+[trustywolf](https://github.com/trustywolf) | [trustywolf](https://fedoraproject.org/wiki/User:trustywolf)
