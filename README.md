@@ -44,3 +44,4 @@ Github Username | FAS Username
 [shiywang](https://github.com/shiywang) | [shiywang](https://fedoraproject.org/wiki/User:Shiywang)
 [xianliu](https://github.com/xianliu) | [lxjsj](https://fedoraproject.org/wiki/User:Lxjsj)
 [trustywolf](https://github.com/trustywolf) | [trustywolf](https://fedoraproject.org/wiki/User:trustywolf)
+[FiveYellowMice](https://github.com/FiveYellowMice) | [fiveyellowmice](https://fedoraproject.org/wiki/User:fiveyellowmice)
