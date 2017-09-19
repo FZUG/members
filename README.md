@@ -45,4 +45,5 @@ Github Username | FAS Username
 [xianliu](https://github.com/xianliu) | [lxjsj](https://fedoraproject.org/wiki/User:Lxjsj)
 [trustywolf](https://github.com/trustywolf) | [trustywolf](https://fedoraproject.org/wiki/User:trustywolf)
 [suiwenfeng](https://github.com/suiwenfeng) | [suiwenfeng](https://fedoraproject.org/wiki/User:suiwenfeng)
-[n0vad3v](https://github.com/n0vad3v) | [jonasguo](https://fedoraproject.org/wiki/User:jonasguo)
+[n0vad3v](https://github.com/n0vad3v) | [jonasguo](https://fedoraproject.org/wiki/User:jonasguo)  
+[vHtQ18W](https://github.com/vHtQ18W) | [Vhtq18w](https://fedoraproject.org/wiki/User:Vhtq18w)
