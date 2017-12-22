@@ -48,3 +48,4 @@ Github Username | FAS Username
 [n0vad3v](https://github.com/n0vad3v) | [jonasguo](https://fedoraproject.org/wiki/User:jonasguo)  
 [vHtQ18W](https://github.com/vHtQ18W) | [Vhtq18w](https://fedoraproject.org/wiki/User:Vhtq18w)
 [geekpany](https://github.com/geekpany) | [pany](https://fedoraproject.org/wiki/User:pany)
+[kaio](https://github.com/kaio) | [kaio](https://fedoraproject.org/wiki/User:kaio)
