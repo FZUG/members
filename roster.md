@@ -26,3 +26,5 @@ Github Username | FAS Username
 [geekpany](https://github.com/geekpany) | [pany](https://fedoraproject.org/wiki/User:pany)
 [kaio](https://github.com/kaio) | [kaio](https://fedoraproject.org/wiki/User:kaio)
 [wi24rd](https://github.com/wi24rd) | [wi24rd](https://fedoraproject.org/wiki/User:wi24rd)
+[karuboniru](https://github.com/karuboniru) | [yanqiyu](https://fedoraproject.org/wiki/User:Yanqiyu)
+
