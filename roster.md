@@ -27,4 +27,5 @@ Github Username | FAS Username
 [kaio](https://github.com/kaio) | [kaio](https://fedoraproject.org/wiki/User:kaio)
 [wi24rd](https://github.com/wi24rd) | [wi24rd](https://fedoraproject.org/wiki/User:wi24rd)
 [karuboniru](https://github.com/karuboniru) | [yanqiyu](https://fedoraproject.org/wiki/User:Yanqiyu)
+[sdutwsl](https://github.com/sdutwsl) | [sdutwsl](https://fedoraproject.org/wiki/User:sdutwsl)
 
