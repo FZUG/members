@@ -28,4 +28,4 @@ Github Username | FAS Username
 [wi24rd](https://github.com/wi24rd) | [wi24rd](https://fedoraproject.org/wiki/User:wi24rd)
 [karuboniru](https://github.com/karuboniru) | [yanqiyu](https://fedoraproject.org/wiki/User:Yanqiyu)
 [sdutwsl](https://github.com/sdutwsl) | [sdutwsl](https://fedoraproject.org/wiki/User:sdutwsl)
-
+[bobby285271](https://github.com/bobby285271) | [rjl931189261](https://fedoraproject.org/wiki/User:rjl931189261)
