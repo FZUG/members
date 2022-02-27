@@ -30,3 +30,4 @@ Github Username | FAS Username
 [sdutwsl](https://github.com/sdutwsl) | [sdutwsl](https://fedoraproject.org/wiki/User:sdutwsl)
 [bobby285271](https://github.com/bobby285271) | [rjl931189261](https://fedoraproject.org/wiki/User:rjl931189261)
 [biukang](https://github.com/biukang) | [biukang](https://fedoraproject.org/wiki/User:Biukang)
+[CoelacanthusHex](https://github.com/CoelacanthusHex) | [Coelacanthus](https://fedoraproject.org/wiki/User:Coelacanthus)
